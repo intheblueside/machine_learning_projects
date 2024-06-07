@@ -3,3 +3,5 @@ Some machine learning projects I've done some for fun and some for assignments
 
 1. Stroke prediction
 2. Phishing website detection
+
+All projects are completed using Google Colab and Streamlit only 
